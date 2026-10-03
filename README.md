@@ -164,7 +164,7 @@ The Random Forest ensemble leverages bagging to achieve a strong test accuracy o
 
 
 # WEEK 03
-# Telco Customer Churn - ML Validation & Modeling Pipeline
+# Telco Customer Churn - Model Optimization and Unsupervised Learning
 
 An end-to-end Machine Learning case study evaluating validation split noise, cross-validation stability, hyperparameter tuning, and model comparison on the Telco Customer Churn dataset.
 
